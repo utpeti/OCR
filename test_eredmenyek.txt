@@ -1,0 +1,32 @@
+k = 3:
+
+kNN: Euclidean distance - Train Accuracy: 0.9929374836515825
+kNN: Euclidean distance - Test Accuracy: 0.9788536449638287
+kNN: Cosine similarity - Train Accuracy: 0.9926759089720115
+kNN: Cosine similarity - Test Accuracy: 0.9777406789092933
+Centroid: Euclidean distance - Train Accuracy: 0.9186502746534135
+Centroid: Euclidean distance - Test Accuracy: 0.8937117417918754
+Centroid: Cosine similarity - Train Accuracy: 0.9191734240125556
+Centroid: Cosine similarity - Test Accuracy: 0.8937117417918754
+
+k = 1:
+
+kNN: Euclidean distance - Train Accuracy: 1.0
+kNN: Euclidean distance - Test Accuracy: 0.9799666110183639
+kNN: Cosine similarity - Train Accuracy: 1.0
+kNN: Cosine similarity - Test Accuracy: 0.9771841958820257
+Centroid: Euclidean distance - Train Accuracy: 0.9186502746534135
+Centroid: Euclidean distance - Test Accuracy: 0.8937117417918754
+Centroid: Cosine similarity - Train Accuracy: 0.9191734240125556
+Centroid: Cosine similarity - Test Accuracy: 0.8937117417918754
+
+k = 10:
+
+kNN: Euclidean distance - Train Accuracy: 0.9877059900601621
+kNN: Euclidean distance - Test Accuracy: 0.9760712298274903
+kNN: Cosine similarity - Train Accuracy: 0.985613392623594
+kNN: Cosine similarity - Test Accuracy: 0.9721758486366165
+Centroid: Euclidean distance - Train Accuracy: 0.9186502746534135
+Centroid: Euclidean distance - Test Accuracy: 0.8937117417918754
+Centroid: Cosine similarity - Train Accuracy: 0.9191734240125556
+Centroid: Cosine similarity - Test Accuracy: 0.8937117417918754
